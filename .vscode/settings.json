@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "eslint.format.enable": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false
+}
